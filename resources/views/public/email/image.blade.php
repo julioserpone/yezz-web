@@ -1,0 +1,1 @@
+<img src="http://test.sayyezz.com/img/campaign/{{$img_name}}" />

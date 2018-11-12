@@ -1,0 +1,74 @@
+
+.comment-container{
+  border:1px;
+  border-color: #538cc6;
+  border-style: solid;
+  background-color:#c4d9ed;
+  margin-top: 5px;
+}
+
+.avatar {
+
+  min-height: 210px;
+
+}
+
+.img-avatar{
+	
+
+}
+
+.avatar img{
+  width: 85px;
+  height: 85px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.avatar text{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.starred{
+	color: #ff8c1a;
+}
+.comment{
+  min-height: 230px;
+  background-color:#fff;
+}
+
+.comment-info{
+	height: 50px;
+	width: 100%;
+	margin-bottom: 5px;
+	
+}
+.comment-icon-bar{
+	margin-left: 3px;
+}
+
+.comment-info ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.comment-info li{
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+}
+.comment-timestamp{
+	float: right;
+	margin-right: 3px;
+}
+
+.comment-posted{
+	font-family: Verdana, Arial;
+	font-size: 12px;
+}
+
